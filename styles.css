@@ -1,0 +1,8 @@
+/*END TWITTER*/
+/*GOOGLE MAPS*/
+.gmap {
+  height: 500px;
+}
+.gmap img {
+  max-width: none;
+}
